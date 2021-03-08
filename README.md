@@ -1,3 +1,6 @@
+完成的代码在hw4-skeleton.ipynb中。
+以下为斯坦福课程提供的环境配置教程。
+
 Getting started
 ===============
 
